@@ -1,0 +1,7 @@
+{
+  "name": "LeadScrapper MX",
+  "description": "Professional lead extraction tool for businesses in Mexico using AI-powered search grounding to find verified contact information and locations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
